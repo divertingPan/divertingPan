@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @divertingPan (Dawson Pan/潘昱辰)
+- 👋 Hi, I’m @divertingPan (Dawson Pan/Yuchen Pan)
 - 👀 I’m interested in Computer Vision / Digital Image Processing / Machine Learning
 - 🤝 I’m looking to collaborate on anyone who is interested in something about digital image/video
 - 📫 Open issues in any project or leave me messages in panpyc@foxmail.com
